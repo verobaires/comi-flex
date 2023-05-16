@@ -1,0 +1,24 @@
+.card-gap{
+    gap: 18px;
+}
+
+.bg-nav-footer{
+    background-color: cornflowerblue;
+}
+
+.bg-card{
+    background-color: rgb(55, 118, 235);
+}
+
+.bg-acordeon{
+    background-color: rgba(52, 175, 231, 0.699);
+}
+
+.logo{
+    width: 50px;
+}
+
+.accordion{
+    background-color: rgba(52, 175, 231, 0.699);
+    --bs-accordion-bg: rgb(178, 219, 238);
+}
